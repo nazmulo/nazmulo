@@ -7,62 +7,90 @@
 
    </div>
    
-<h1 align="center"> 👋 Nazmul Hasan</h1>
-<h3 align="center">A passionate Frontent Developer from Bangladesh</h3>
-<br>
+<!--- title --->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm NAZMUL HASAN</h1></summary>
+    <!--- typo --->
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Technical+Instructor+@PH;Passionate+Full+Stack+Web+Developer;JavaScript+Enthusiast;Interested+in+Bioinformatics" alt="Typing SVG" /></a>
+  </ul>
+</div>
 
-🌱“Code with purpose, grow with passion and inspire through action.”
+<br/>
 
-🎯 Mission 2026: Become a impactful MERN Stack Developer and creating solutions that truly make a difference.
+<!--- about --->
+- 👋 Hi, I’m **[@nazmulo](https://github.com/nazmulo/nazmulo)**
+- 🖥️ I’m currently working on **React.js, Next.js** for frontend development.
+- 🗄️ Using **Node.js, Express.js, MongoDB** for the backend.
+- 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB)**.
+- 🌐 Explore My Portfolio **[TouhidCodes](https://nazmul-web.netlify.app/)** and My **[Resume](https://drive.google.com/uc?export=download&id=15hKPeITR4Sa_OncoDhpUNgLJhBO)**
+- 📝 I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/itsnaazmul)**
+- 📫 Feel free to reach me out **[Email](itsnaazmul@gmail.com)**
+  
+<br/>
 
-## 💡 What Drives Me
+<!--- socials --->
+## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
 
-🎨 Designing intuitive and engaging user interfaces.
+<div>
+  <p align="left">
+    <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="nazmulo" height="30" width="40" /></a>
+    <a href="#" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="nazmulo" height="30" width="40" /></a>
+    <a href="#" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="nazmulo" height="30" width="40" /></a>
+    <a href="#" target="blank"><img src="https:///github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="786754e" height="30" width="40" /></a>
+  </p>
+</div>
 
-⚡️ Turning complex problems into simple and elegant solutions.
+<br/>
 
-📚 Exploring emerging technologies and expanding my toolkit.
+<!--- technology --->
+##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
+
+### Languages:
+[![Languages](https://skillicons.dev/icons?i=html,css,javascript)](https://github.com/nazmulo)
+
+### CSS Frameworks & Libraries:
+[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind)](https://github.com/nazmulo)
+
+### JavaScript Frameworks & Libraries:
+[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,nodejs,express)](https://github.com/nazmulo)
+
+### Database & Model:
+[![Database & Model](https://skillicons.dev/icons?i=mongodb)](https://github.com/,mysql,postgres,prisma,supabase)
+
+### Deployment Platform:
+[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,firebase)](https://github.com/nazmulo)
+
+### Design & Graphics:
+[![Design & Graphics](https://skillicons.dev/icons?i=figma)](https://github.com/nazmulo)
+
+### Tools & Technologies:
+[![Tools & Technologies](https://skillicons.dev/icons?i=windows,notion,git,github,vscode)](https://github.com/nazmulo)
+
+<br/>
+
+<!--- statistics --->
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
+
+### GitHub Contributions:
+![Snake Grid](https://github.com/nazmulo/contribution-snake/blob/output/grid.svg)
+
+
+### GitHub Statistics:
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=nazmulo&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmulo&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
+| ------------- | ------------- |
+
+### Repository Stats & Streak:
+| <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=nazmulo&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=nazmulo" /></a> |
+| ------------- | ------------- |
+
+<br/>
+
+<!--- random quote --->
+##  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="30"><b> RANDOM DEV QUOTE:</b>
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light"/>
 
 ---
 
-## 👨‍💻 Skills
-
-### 🖥 Programing Language
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-
-### ⚙️ Frameworks & Libraries
-![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
-![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat)
-![Node.js Badge](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=flat)
-![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat)
-
-### 🎨 Frontend & Styling
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS Badge](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=flat)
-![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)
-
-### 🗄 Databases & Authentication
-![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
-![Firebase Badge](https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=fff&style=flat)
-
-### 🧰 Tools & Platforms
-![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
-![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff&style=flat)
-![Vercel Badge](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=flat)
-![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat)
-
----
-
-### 🔗 Connect with me
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/itsnaazmul/)
-
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nazmulo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nazmulo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmulo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
+<!--- visit count --->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nazmulo&label=Profile%20views&color=0e75b6&style=flat" alt="nazmulo" /> </p>
