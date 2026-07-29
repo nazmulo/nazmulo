@@ -23,7 +23,7 @@
 - 🖥️ I’m currently working on **React.js, Next.js** for frontend development.
 - 🗄️ Using **Node.js, Express.js, MongoDB** for the backend.
 - 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB)**.
-- 🌐 Explore My Portfolio **[TouhidCodes](https://nazmul-web.netlify.app/)** and My **[Resume](https://drive.google.com/uc?export=download&id=15hKPeITR4Sa_OncoDhpUNgLJhBO)**
+- 🌐 Explore My Portfolio **[NAZMUL HASAN](https://nazmul-web.netlify.app/)** and My **[Resume](https://drive.google.com/uc?export=download&id=15hKPeITR4Sa_OncoDhpUNgLJhBO)**
 - 📝 I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/itsnaazmul)**
 - 📫 Feel free to reach me out **[Email](itsnaazmul@gmail.com)**
   
