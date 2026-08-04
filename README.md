@@ -2,10 +2,8 @@
   <img 
     src="cover.png" 
     alt="Nazmul Hasan" 
-    style="width: 100%; height: 300px;" 
-  >
-
-   </div>
+    style="width: 100%; height: 300px;">
+</div>
    
 <!--- title --->
 <div id="user-content-toc">
@@ -36,9 +34,7 @@
   <p align="left">
     <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="nazmulo" height="30" width="40" /></a>
     <a href="#" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="nazmulo" height="30" width="40" /></a>
-    <a href="#" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="nazmulo" height="30" width="40" /></a>
-    <a href="#" target="blank"><img src="https:///github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="786754e" height="30" width="40" /></a>
-  </p>
+    </p>
 </div>
 
 <br/>
