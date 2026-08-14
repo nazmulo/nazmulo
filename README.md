@@ -133,38 +133,6 @@ Status: ACTIVE
 
 <br/>
 
-## 「 ARCHIVE :: PINNED REPOS 」
-
-
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**◈ awesome-project**
-```ini
-status  = active
-type    = open-source
-updated = just now
-stars   = 0
-```
-A standout open-source project.
-
-</td>
-<td width="50%" valign="top">
-
-**◈ toolkit**
-```ini
-status  = stable
-type    = library
-updated = n/a
-stars   = 0
-```
-Reusable building blocks and utilities.
-
-</td>
-</tr>
-</table>
 
 <br/>
 
