@@ -12,10 +12,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/⬡_NODE-ONLINE-0d0221?style=for-the-badge&labelColor=0d0221&color=ff00c8"/>
-<img src="https://img.shields.io/badge/⬡_HANDLE-@nazmulo-0d0221?style=for-the-badge&labelColor=0d0221&color=00fff9"/>
-<img src="https://img.shields.io/badge/⬡_CLASS-Frontend_Dev-0d0221?style=for-the-badge&labelColor=0d0221&color=7000ff"/>
-<img src="https://img.shields.io/badge/⬡_COLLAB-Open-0d0221?style=for-the-badge&labelColor=0d0221&color=39ff14"/>
+
 
 </div>
 
