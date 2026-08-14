@@ -133,49 +133,5 @@ Reusable building blocks and utilities.
 
 <details>
 
-<br/>
-
-**1. Repo name matters.** All of this only renders on your profile if it lives in a repo named exactly `nazmulo/nazmulo`, in a file called `README.md`.
-
-**2. The stats, streak, activity graph, trophies, and view counter** are all live and need zero setup — they pull straight from your public GitHub username.
-
-**3. The contribution snake animation** needs one GitHub Action (free, takes ~2 minutes):
-- Go to your `nazmulo/nazmulo` repo → **Actions** → **New workflow** → **set up a workflow yourself**
-- Paste this in `.github/workflows/snake.yml`:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches: [ main ]
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: nazmulo
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-- Commit → run it once manually via **Run workflow** → the snake SVG will appear at the URL already used above.
-
-**4. Want the ASCII banner replaced with your actual profile photo?** Just add:
-```md
-<img src="https://github.com/nazmulo.png" width="120" style="border-radius:50%"/>
-```
-
-
+<P>hi here use details</P>
 </details>
