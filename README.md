@@ -34,8 +34,6 @@ signal     : Open to collaboration — ping me anytime
 <!--- technology --->
 ##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
 
-## 03 // TECH DNA
-
 <table align="center">
 
 <tr>
