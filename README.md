@@ -73,28 +73,6 @@ signal     : Open to collaboration — ping me anytime
 
 <br/>
 
-## 「 CONTRIBUTION GRID :: SNAKE 」
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/nazmulo/nazmulo/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-
-<sub>⚠ requires one-time setup — see <b>Activation Log</b> below</sub>
-
-</div>
-
-<br/>
-
-## 「 TROPHY VAULT 」
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nazmulo&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" width="95%"/>
-
-</div>
-
-<br/>
-
 ## 「 ARCHIVE :: PINNED REPOS 」
 
 ```yaml
