@@ -1,100 +1,71 @@
-**👨‍💻 Nazmul Hasan
+::: {align="center"}
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:05000F,35:16002B,70:30004F,100:05000F&text=NAZMUL%20HASAN&fontSize=52&fontColor=00F0FF&fontAlignY=38&desc=CYBER%20DEVELOPER%20%2F%2F%20SYSTEM%20ONLINE&descAlignY=62&descSize=16&animation=twinkling"/>{=html}
 
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:7F00FF&height=180&section=header&text=NAZMUL%20HASAN&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35" />{=html}
-
-</p>
-
-<p align="center">
+╔════════════════════════════════════════════════════════════════════╗
+║  N A Z M U L . 0  //  DEVELOPER NODE                             ║
+║                                                                    ║
+║  STATUS       [ ONLINE ]       MODE        [ BUILDING ]            ║
+║  CLASS        FULL-STACK       CORE        JAVASCRIPT / PYTHON     ║
+║  MISSION      WEB × AI × AUTOMATION                                ║
+╚════════════════════════════════════════════════════════════════════╝
 
 <a href="https://github.com/nazmul0">{=html}
-<img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=00C6FF" />{=html}
+<img src="https://img.shields.io/badge/ACCESS-GITHUB-00F0FF?style=for-the-badge&labelColor=08000F"/>{=html}
 </a>{=html} <a href="https://www.linkedin.com/">{=html}
-<img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=00C6FF" />{=html}
-</a>{=html} <a href="mailto:your-email@example.com">{=html}
-<img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=00C6FF" />{=html}
+<img src="https://img.shields.io/badge/LINK-LINKEDIN-FF00E5?style=for-the-badge&labelColor=08000F"/>{=html}
 </a>{=html}
+:::
 
-</p>
+01 // IDENTITY
 
-> whoami
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│  > boot developer_profile                                      │
+│                                                                 │
+│  [✓] Frontend Developer                                        │
+│  [→] Full-Stack Developer                                      │
+│  [→] Python Developer                                          │
+│  [→] AI / Automation Explorer                                  │
+│                                                                 │
+│  "I don't just build interfaces.                              │
+│   I build systems that feel alive."                            │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
 
-Frontend Developer
-Future Full-Stack Developer
-Python Developer (AI & Automation)
-Building modern, useful and scalable web experiences.
-
-⚡ Profile Signal
+02 // NEURAL CORE
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nazmul0&show_icons=true&hide_border=true&bg_color=0B1220&title_color=00C6FF&icon_color=7F00FF&text_color=E6F7FF&ring_color=00C6FF" height="165" />{=html}
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul0&layout=compact&hide_border=true&bg_color=0B1220&title_color=00C6FF&text_color=E6F7FF" height="165" />{=html}
+<img src="https://github-readme-stats.vercel.app/api?username=nazmul0&show_icons=true&hide_border=true&bg_color=05000F&title_color=00F0FF&icon_color=FF00E5&text_color=C8F7FF&ring_color=00F0FF&include_all_commits=true" height="175"/>{=html}
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul0&layout=compact&hide_border=true&bg_color=05000F&title_color=FF00E5&text_color=C8F7FF" height="175"/>{=html}
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=nazmul0&theme=transparent&hide_border=true&background=0B1220&ring=00C6FF&fire=7F00FF&currStreakLabel=00C6FF&sideLabels=E6F7FF&dates=8AA4B8" />{=html}
+<img src="https://streak-stats.demolab.com?user=nazmul0&theme=dark&hide_border=true&background=05000F&ring=00F0FF&fire=FF00E5&currStreakLabel=00F0FF&sideLabels=C8F7FF&dates=7B6F99"/>{=html}
 
 </p>
 
-🧬 Tech Matrix
+03 // TECH DNA
 
-Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />{=html}
-
-</p>
-
-Backend & Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />{=html}
-
-</p>
-
-Programming & Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,vercel,netlify" />{=html}
-
-</p>
-
-🚀 Featured Projects
-
-<table>
+<table align="center">
 
 <tr>
 
-<td width="50%">
+<td align="center" width="50%">
 
-📚 StudyNook
+FRONTEND_MATRIX
 
-Library Study Room Booking
-
-A full-stack platform for discovering, listing and booking study rooms
-with authentication and booking-conflict protection.
-
-Stack: React · Node.js · Express · MongoDB · Firebase
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />{=html}
 
 </td>
 
-<td width="50%">
+<td align="center" width="50%">
 
-🌐 Portfolio
+BACKEND_MATRIX
 
-Personal Developer Portfolio
-
-A clean, responsive portfolio showcasing projects, skills, experience
-and developer identity.
-
-Stack: HTML · CSS · JavaScript
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />{=html}
 
 </td>
 
@@ -102,29 +73,19 @@ Stack: HTML · CSS · JavaScript
 
 <tr>
 
-<td width="50%">
+<td align="center">
 
-🤖 AI Web Features
+PYTHON_CORE
 
-AI-powered Experiments
-
-Exploring practical AI integrations for modern websites, automation and
-developer workflows.
-
-Focus: AI · APIs · Python · JavaScript
+<img src="https://skillicons.dev/icons?i=python" />{=html}
 
 </td>
 
-<td width="50%">
+<td align="center">
 
-🧪 More Projects
+DEVOPS_INTERFACE
 
-Building in Public
-
-Constantly experimenting with frontend systems, full-stack applications,
-APIs and useful developer tools.
-
-Status: ACTIVE
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" />{=html}
 
 </td>
 
@@ -132,60 +93,108 @@ Status: ACTIVE
 
 </table>
 
-📈 Contribution System
+04 // ACTIVE OPERATIONS
+
+╭────────────────────────────────────────────────────────────────────╮
+│                                                                    │
+│  [01] STUDYNOOK                                                   │
+│  ──────────────────────────────────────────────────────────────    │
+│  Library Study Room Booking System                                │
+│                                                                    │
+│  React + Node + Express + MongoDB + Firebase                     │
+│  AUTH / SEARCH / BOOKING / CONFLICT DETECTION / DASHBOARD        │
+│                                                                    │
+│  STATUS :: ███████████████░░░░  BUILDING                         │
+│                                                                    │
+├────────────────────────────────────────────────────────────────────┤
+│                                                                    │
+│  [02] AI WEB LAB                                                   │
+│  ──────────────────────────────────────────────────────────────    │
+│  Experiments with AI-powered web features and automation.         │
+│                                                                    │
+│  JavaScript + Python + APIs + AI                                  │
+│                                                                    │
+│  STATUS :: ████████████░░░░░░░░  EXPERIMENTING                   │
+│                                                                    │
+├────────────────────────────────────────────────────────────────────┤
+│                                                                    │
+│  [03] PORTFOLIO NODE                                               │
+│  ──────────────────────────────────────────────────────────────    │
+│  Personal developer interface / project showcase.                 │
+│                                                                    │
+│  HTML + CSS + JavaScript                                          │
+│                                                                    │
+│  STATUS :: ███████████████████░  ONLINE                           │
+│                                                                    │
+╰────────────────────────────────────────────────────────────────────╯
+
+05 // CONTRIBUTION GRID
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nazmul0&bg_color=0B1220&color=00C6FF&line=7F00FF&point=00C6FF&area=true&hide_border=true" width="100%" />{=html}
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nazmul0&bg_color=05000F&color=00F0FF&line=FF00E5&point=FFFFFF&area=true&area_color=16002B&hide_border=true" width="98%"/>{=html}
 
 </p>
 
-🎯 Current Mission
+06 // CURRENT DIRECTIVE
 
-+ Mastering React & modern frontend architecture
-+ Building full-stack applications with MERN
-+ Learning Python for AI & automation
-+ Exploring AI integration in web applications
-+ Creating recruiter-friendly real-world projects
++ [01] Deepen React architecture
++ [02] Build production-ready MERN applications
++ [03] Master backend APIs and authentication
++ [04] Learn Python for AI & automation
++ [05] Integrate useful AI features into web apps
++ [06] Ship projects instead of only collecting tutorials
 
-🧠 Developer Mindset
+07 // SYSTEM LOG
 
-Learn → Build → Break → Debug → Improve → Ship
+10:01:07  :: initializing...
+10:01:08  :: loading developer_profile
+10:01:09  :: frontend_module       [ONLINE]
+10:01:09  :: backend_module        [ONLINE]
+10:01:10  :: python_module         [LOADING]
+10:01:10  :: ai_module             [EXPERIMENTAL]
+10:01:11  :: creativity_engine     [UNLIMITED]
+10:01:11  :: mission_status        [BUILD / LEARN / SHIP]
 
-I enjoy turning ideas into functional interfaces and continuously
-improving my skills through real-world projects.
+08 // ABOUT THE OPERATOR
 
-🌌 About Me
+Frontend Developer focused on building modern interfaces and
+real-world applications.
 
-<p>
+My long-term direction is Full-Stack Development + Python + AI.
 
-Frontend Developer. I want to become a <strong>{=html}Full-stack
-Developer</strong>{=html} and <strong>{=html}Python
-Developer</strong>{=html}, with a growing focus on AI, automation and
-modern web technologies.
+I learn by building, debugging, breaking things, and rebuilding them
+better.
 
-</p>
+09 // NETWORK
 
-📡 Connect
-
-<p align="center">
-
+::: {align="center"}
 <a href="https://github.com/nazmul0">{=html}
-<img src="https://img.shields.io/badge/GitHub-Follow-00C6FF?style=for-the-badge&logo=github&logoColor=white" />{=html}
-</a>{=html} <a href="https://www.linkedin.com/">{=html}
-<img src="https://img.shields.io/badge/LinkedIn-Connect-7F00FF?style=for-the-badge&logo=linkedin&logoColor=white" />{=html}
+<img src="https://img.shields.io/badge/GITHUB-00F0FF?style=for-the-badge&logo=github&logoColor=05000F&labelColor=FF00E5"/>{=html}
 </a>{=html}
 
-</p>
+<a href="https://www.linkedin.com/">{=html}
+<img src="https://img.shields.io/badge/LINKEDIN-FF00E5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=05000F"/>{=html}
+</a>{=html}
+:::
 
-<p align="center">
+::: {align="center"}
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C6FF&height=120&section=footer" />{=html}
+╔══════════════════════════════════════════════════════╗
+║  SYSTEM MESSAGE                                     ║
+║                                                      ║
+║  DON'T WAIT FOR THE FUTURE.                         ║
+║  BUILD SOMETHING THAT BELONGS IN IT.                ║
+║                                                      ║
+║  > connection terminated...                         ║
+╚══════════════════════════════════════════════════════╝
 
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:05000F,45:30004F,100:FF00E5&section=footer"/>{=html}
+:::
 
 <!--
-  FUTURE MODE:
-  Replace the placeholder LinkedIn and email links.
-  Change "nazmul0" if your GitHub username is different.
--->**
+CYBERPUNK PROFILE CONFIG
+1. Replace the LinkedIn URL.
+2. Replace the email/social links if you add them.
+3. Change "nazmul0" everywhere if your GitHub username is different.
+-->
