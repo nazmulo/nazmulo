@@ -82,5 +82,3 @@ Status: ACTIVE
 <!--
   FUTURE MODE:
   Replace the placeholder LinkedIn and email links.
-  Change "nazmul0" if your GitHub username is different.
--->
