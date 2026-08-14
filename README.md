@@ -181,18 +181,11 @@ Status: ACTIVE
 
 <br/>
 
-<a href="https://github.com/nazmulo">
-  <img src="https://img.shields.io/badge/GITHUB-0d0221?style=for-the-badge&logo=github&logoColor=ff00c8" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/nazmulhasan01">
-  <img src="https://img.shields.io/badge/LINKEDIN-0d0221?style=for-the-badge&logo=linkedin&logoColor=00fff9" alt="LinkedIn"/>
-</a>
-<a href="https://nazmul-web.netlify.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-0d0221?style=for-the-badge&logo=netlify&logoColor=7000ff" alt="Portfolio"/>
-</a>
-<a href="mailto:itsnaazmul@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-0d0221?style=for-the-badge&logo=gmail&logoColor=39ff14" alt="Email"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GITHUB-0d0221?style=for-the-badge&logo=github&logoColor=ff00c8)](https://github.com/nazmulo)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d0221?style=for-the-badge&logo=linkedin&logoColor=00fff9)](https://www.linkedin.com/in/nazmulhasan01)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0d0221?style=for-the-badge&logo=netlify&logoColor=7000ff)](https://nazmul-web.netlify.app/)
+
+
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=nazmulo&style=for-the-badge&color=ff00c8&label=TRANSMISSIONS+RECEIVED&labelColor=0d0221"/>
