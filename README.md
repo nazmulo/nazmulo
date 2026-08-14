@@ -1,52 +1,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:05000F,35:16002B,70:30004F,100:05000F&text=NAZMUL%20HASAN&fontSize=52&fontColor=00F0FF&fontAlignY=38&desc=CYBER%20DEVELOPER%20%2F%2F%20SYSTEM%20ONLINE&descAlignY=62&descSize=16&animation=twinkling"/>
 
-╔════════════════════════════════════════════════════════════════════╗
-║  N A Z M U L . 0  //  DEVELOPER NODE                             ║
-║                                                                    ║
-║  STATUS       [ ONLINE ]       MODE        [ BUILDING ]            ║
-║  CLASS        FULL-STACK       CORE        JAVASCRIPT / PYTHON     ║
-║  MISSION      WEB × AI × AUTOMATION                                ║
-╚════════════════════════════════════════════════════════════════════╝
-
-<a href="https://github.com/nazmul0">{=html}
-<img src="https://img.shields.io/badge/ACCESS-GITHUB-00F0FF?style=for-the-badge&labelColor=08000F"/>{=html}
-</a>{=html} <a href="https://www.linkedin.com/">{=html}
-<img src="https://img.shields.io/badge/LINK-LINKEDIN-FF00E5?style=for-the-badge&labelColor=08000F"/>{=html}
-</a>{=html}
-:::
-
-01 // IDENTITY
-
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│  > boot developer_profile                                      │
-│                                                                 │
-│  [✓] Frontend Developer                                        │
-│  [→] Full-Stack Developer                                      │
-│  [→] Python Developer                                          │
-│  [→] AI / Automation Explorer                                  │
-│                                                                 │
-│  "I don't just build interfaces.                              │
-│   I build systems that feel alive."                            │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-
-02 // NEURAL CORE
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nazmul0&show_icons=true&hide_border=true&bg_color=05000F&title_color=00F0FF&icon_color=FF00E5&text_color=C8F7FF&ring_color=00F0FF&include_all_commits=true" height="175"/>{=html}
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul0&layout=compact&hide_border=true&bg_color=05000F&title_color=FF00E5&text_color=C8F7FF" height="175"/>{=html}
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=nazmul0&theme=dark&hide_border=true&background=05000F&ring=00F0FF&fire=FF00E5&currStreakLabel=00F0FF&sideLabels=C8F7FF&dates=7B6F99"/>{=html}
-
-</p>
-
 03 // TECH DNA
 
 <table align="center">
