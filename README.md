@@ -198,9 +198,8 @@ Status: ACTIVE
 
 </div>
 
----
-
 <details>
 
 <P>hi here use details</P>
+
 </details>
