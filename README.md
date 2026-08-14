@@ -1,6 +1,6 @@
 <div align="center">
 
-
+https://capsule-render.vercel.app/api?type=waving&height=220&color=0:05000F,35:16002B,70:30004F,100:05000F&text=NAZMUL%20HASAN&fontSize=52&fontColor=00F0FF&fontAlignY=38&animation=twinkling
 
 </div>
 
