@@ -48,6 +48,72 @@ signal     : Open to collaboration — ping me anytime
 
 <br/>
 
+🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+📚 StudyNook
+
+Library Study Room Booking
+
+A full-stack platform for discovering, listing and booking study rooms
+with authentication and booking-conflict protection.
+
+Stack: React · Node.js · Express · MongoDB · Firebase
+
+</td>
+
+<td width="50%">
+
+🌐 Portfolio
+
+Personal Developer Portfolio
+
+A clean, responsive portfolio showcasing projects, skills, experience
+and developer identity.
+
+Stack: HTML · CSS · JavaScript
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+🤖 AI Web Features
+
+AI-powered Experiments
+
+Exploring practical AI integrations for modern websites, automation and
+developer workflows.
+
+Focus: AI · APIs · Python · JavaScript
+
+</td>
+
+<td width="50%">
+
+🧪 More Projects
+
+Building in Public
+
+Constantly experimenting with frontend systems, full-stack applications,
+APIs and useful developer tools.
+
+Status: ACTIVE
+
+</td>
+
+</tr>
+
+</table>
+
 ## 「 NEURAL FEED :: LIVE STATS 」
 
 <div align="center">
