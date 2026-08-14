@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2000&pause=900&color=00FFF9&center=true&vCenter=true&width=750&lines=root%40nazmulo%3A~%24+whoami;%3E+Frontend+Developer+based+in+Bangladesh;root%40nazmulo%3A~%24+status+--current;%3E+Leveling+up+to+Full-Stack+%2B+Python%2FAI;root%40nazmulo%3A~%24+access+--collab;%3E+Access+granted.+Let%27s+build+something." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2000&pause=900&color=00FFF9&center=true&vCenter=true&width=750&lines=root%40nazmulo%3A~%24+whoami;%3E+Passionate+Full+Stack+Web+Developer;root%40nazmulo%3A~%24+status+--current;%3E+Leveling+up+to+Full-Stack+%2B+Python%2FAI;root%40nazmulo%3A~%24+access+--collab;%3E+Access+granted.+Let%27s+build+something." alt="Typing SVG" />
 
 <br/>
 
