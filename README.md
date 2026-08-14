@@ -1,8 +1,4 @@
-# nazmulo
 
-> Memorable developer positioning.
-
-**Theme:** Neon · **Style:** Creative · **Agent:** Full-Stack Engineer
 
 ## Header
 > Editing this section in the inspector.
