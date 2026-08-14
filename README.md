@@ -173,9 +173,13 @@ Status: ACTIVE
 
 <br/>
 
-## 「 UPLINK :: CONTACT 」
+
 
 <div align="center">
+
+##  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTQyaXlycTY0OGV4aGRkNHM0a2twNDVzdGU4cTBrNWE2NmVzYXh1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/65qzUZckzeWG1wugLW/giphy.gif" width ="35"><b> CONTACTS:</b>
+
+<br/>
 
 [![GitHub](https://img.shields.io/badge/GITHUB-0d0221?style=for-the-badge&logo=github&logoColor=ff00c8)](https://github.com/nazmulo)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d0221?style=for-the-badge&logo=linkedin&logoColor=00fff9)](#)
