@@ -1,95 +1,191 @@
-<div align="center">
+**👨‍💻 Nazmul Hasan
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:0d47a1,100:00d9ff&height=220&section=header&text=Nazmul%20Hasan&fontSize=55&fontColor=00d9ff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Aspiring%20Full-Stack%20%26%20AI%20Developer&descAlignY=55&descSize=18&descColor=8be9fd" width="100%"/>
+<p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;Learning+Full-Stack+Development;Diving+into+Python+%26+AI+%F0%9F%A4%96;Open+to+Collaboration+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:7F00FF&height=180&section=header&text=NAZMUL%20HASAN&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35" />{=html}
 
-<br/>
+</p>
 
-[![GitHub](https://img.shields.io/badge/-@nazmulo-0a0e27?style=for-the-badge&logo=github&logoColor=00d9ff&labelColor=0a0e27&color=0d1b3e)](https://github.com/nazmulo)
-[![Stars](https://img.shields.io/github/stars/nazmulo?style=for-the-badge&logo=data:image/svg%2bxml;base64,&labelColor=0a0e27&color=00d9ff&label=TOTAL%20STARS)](https://github.com/nazmulo)
+<p align="center">
 
-</div>
+<a href="https://github.com/nazmul0">{=html}
+<img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=00C6FF" />{=html}
+</a>{=html} <a href="https://www.linkedin.com/">{=html}
+<img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=00C6FF" />{=html}
+</a>{=html} <a href="mailto:your-email@example.com">{=html}
+<img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=00C6FF" />{=html}
+</a>{=html}
 
-<br/>
+</p>
 
-## ⟩ ABOUT
+> whoami
 
-> Frontend Developer. I want to become a Full-stack Developer and Python Developer (AI-Expert) 🚀
->
-> `>` open to collaboration
+Frontend Developer
+Future Full-Stack Developer
+Python Developer (AI & Automation)
+Building modern, useful and scalable web experiences.
 
-<br/>
+⚡ Profile Signal
 
-## ⟩ TECH STACK
+<p align="center">
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nazmul0&show_icons=true&hide_border=true&bg_color=0B1220&title_color=00C6FF&icon_color=7F00FF&text_color=E6F7FF&ring_color=00C6FF" height="165" />{=html}
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul0&layout=compact&hide_border=true&bg_color=0B1220&title_color=00C6FF&text_color=E6F7FF" height="165" />{=html}
 
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0e27?style=for-the-badge&logo=javascript&logoColor=f7df1e&labelColor=0a0e27)
-![CSS3](https://img.shields.io/badge/CSS3-0a0e27?style=for-the-badge&logo=css3&logoColor=00d9ff&labelColor=0a0e27)
-![HTML5](https://img.shields.io/badge/HTML5-0a0e27?style=for-the-badge&logo=html5&logoColor=ff6f61&labelColor=0a0e27)
-![Python](https://img.shields.io/badge/Python-0a0e27?style=for-the-badge&logo=python&logoColor=00d9ff&labelColor=0a0e27)
-![Learning](https://img.shields.io/badge/Learning-Full--Stack%20%26%20AI-0a0e27?style=for-the-badge&labelColor=0a0e27&color=8be9fd)
+</p>
 
-</div>
+<p align="center">
 
-<br/>
+<img src="https://streak-stats.demolab.com?user=nazmul0&theme=transparent&hide_border=true&background=0B1220&ring=00C6FF&fire=7F00FF&currStreakLabel=00C6FF&sideLabels=E6F7FF&dates=8AA4B8" />{=html}
 
-## ⟩ PROFILE SIGNAL
-<sub>Live GitHub stats</sub>
+</p>
 
-<div align="center">
+🧬 Tech Matrix
 
-<img src="https://github-readme-stats.vercel.app/api?username=nazmulo&show_icons=true&count_private=true&hide_title=true&hide_border=true&bg_color=0a0e27&title_color=00d9ff&icon_color=00d9ff&text_color=8be9fd&ring_color=00d9ff" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmulo&layout=compact&hide_border=true&bg_color=0a0e27&title_color=00d9ff&text_color=8be9fd&langs_count=8" width="30%"/>
+Frontend
 
-<br/>
+<p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nazmulo&hide_border=true&background=0a0e27&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=8be9fd&dates=8be9fd&currStreakNum=8be9fd&sideNums=8be9fd" width="70%"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />{=html}
 
-</div>
+</p>
 
-<br/>
+Backend & Database
 
-## ⟩ PROJECTS.LIST
-<sub><code>./projects.sh --all</code></sub>
+<p>
 
-<table width="100%">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />{=html}
+
+</p>
+
+Programming & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,vercel,netlify" />{=html}
+
+</p>
+
+🚀 Featured Projects
+
+<table>
+
 <tr>
-<td width="50%" valign="top">
 
-### 🟢 awesome-project
-A standout open-source project.
+<td width="50%">
 
-`open-source`
+📚 StudyNook
 
-⭐ 0 &nbsp;·&nbsp; updated just now
+Library Study Room Booking
 
-</td>
-<td width="50%" valign="top">
+A full-stack platform for discovering, listing and booking study rooms
+with authentication and booking-conflict protection.
 
-### 🔵 toolkit
-Reusable building blocks and utilities.
-
-⭐ 0 &nbsp;·&nbsp; updated n/a
+Stack: React · Node.js · Express · MongoDB · Firebase
 
 </td>
+
+<td width="50%">
+
+🌐 Portfolio
+
+Personal Developer Portfolio
+
+A clean, responsive portfolio showcasing projects, skills, experience
+and developer identity.
+
+Stack: HTML · CSS · JavaScript
+
+</td>
+
 </tr>
+
+<tr>
+
+<td width="50%">
+
+🤖 AI Web Features
+
+AI-powered Experiments
+
+Exploring practical AI integrations for modern websites, automation and
+developer workflows.
+
+Focus: AI · APIs · Python · JavaScript
+
+</td>
+
+<td width="50%">
+
+🧪 More Projects
+
+Building in Public
+
+Constantly experimenting with frontend systems, full-stack applications,
+APIs and useful developer tools.
+
+Status: ACTIVE
+
+</td>
+
+</tr>
+
 </table>
 
-<br/>
+📈 Contribution System
 
-## ⟩ CONNECT
+<p align="center">
 
-<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nazmul0&bg_color=0B1220&color=00C6FF&line=7F00FF&point=00C6FF&area=true&hide_border=true" width="100%" />{=html}
 
-[![GitHub](https://img.shields.io/badge/GitHub-0a0e27?style=for-the-badge&logo=github&logoColor=00d9ff)](https://github.com/nazmulo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0e27?style=for-the-badge&logo=linkedin&logoColor=00d9ff)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-0a0e27?style=for-the-badge&logo=x&logoColor=00d9ff)](#)
-[![Email](https://img.shields.io/badge/Email-0a0e27?style=for-the-badge&logo=gmail&logoColor=00d9ff)](#)
+</p>
 
-</div>
+🎯 Current Mission
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:0d47a1,100:0a0e27&height=100&section=footer" width="100%"/>
++ Mastering React & modern frontend architecture
++ Building full-stack applications with MERN
++ Learning Python for AI & automation
++ Exploring AI integration in web applications
++ Creating recruiter-friendly real-world projects
 
-</div>
+🧠 Developer Mindset
+
+Learn → Build → Break → Debug → Improve → Ship
+
+I enjoy turning ideas into functional interfaces and continuously
+improving my skills through real-world projects.
+
+🌌 About Me
+
+<p>
+
+Frontend Developer. I want to become a <strong>{=html}Full-stack
+Developer</strong>{=html} and <strong>{=html}Python
+Developer</strong>{=html}, with a growing focus on AI, automation and
+modern web technologies.
+
+</p>
+
+📡 Connect
+
+<p align="center">
+
+<a href="https://github.com/nazmul0">{=html}
+<img src="https://img.shields.io/badge/GitHub-Follow-00C6FF?style=for-the-badge&logo=github&logoColor=white" />{=html}
+</a>{=html} <a href="https://www.linkedin.com/">{=html}
+<img src="https://img.shields.io/badge/LinkedIn-Connect-7F00FF?style=for-the-badge&logo=linkedin&logoColor=white" />{=html}
+</a>{=html}
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C6FF&height=120&section=footer" />{=html}
+
+</p>
+
+<!--
+  FUTURE MODE:
+  Replace the placeholder LinkedIn and email links.
+  Change "nazmul0" if your GitHub username is different.
+-->**
