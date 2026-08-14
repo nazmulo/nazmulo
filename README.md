@@ -11,7 +11,7 @@
 
 FRONTEND_MATRIX
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />{=html}
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 
 </td>
 
@@ -19,7 +19,7 @@ FRONTEND_MATRIX
 
 BACKEND_MATRIX
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />{=html}
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 
 </td>
 
@@ -31,7 +31,7 @@ BACKEND_MATRIX
 
 PYTHON_CORE
 
-<img src="https://skillicons.dev/icons?i=python" />{=html}
+<img src="https://skillicons.dev/icons?i=python" />
 
 </td>
 
