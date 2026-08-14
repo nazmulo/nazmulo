@@ -1,223 +1,208 @@
-<div align="center">
+::: {align="center"}
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,15:ff00c8,50:00fff9,85:7000ff,100:0d0221&height=280&section=header&text=N%20A%20Z%20M%20U%20L%20&nbsp;&nbsp;H%20A%20S%20A%20N&fontSize=48&fontColor=0d0221&animation=fadeIn&fontAlignY=38&desc=%3C%3C%20SYSTEM%20ONLINE%20%3A%3A%20FRONTEND%20DEVELOPER%20%3A%3A%20AI%20%2B%20FULLSTACK%20IN%20PROGRESS%20%3E%3E&descAlignY=58&descSize=15&descColor=1a0a33" width="100%"/>
+NAZMUL // HASAN
 
-</div>
+FULL-STACK DEVELOPER • PYTHON • AI • BUILDER
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:02030A,25:07111F,55:16002F,80:3A0057,100:02030A&text=SYSTEM%20ONLINE&fontSize=44&fontColor=00F0FF&animation=twinkling&fontAlignY=38&desc=BUILDING%20THE%20NEXT%20VERSION&descSize=15&descColor=FF3DF2&descAlignY=61" width="100%"/>{=html}
 
-```
-     ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄
-    ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌
-    ▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀▀▀
-    ▐░▌       ▐░▌▐░▌       ▐░▌▐░▌
-    ▐░█▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄▄▄
-    ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌
-     ▀▀▀▀▀▀▀▀▀█░▌ ▀▀▀▀▀▀▀▀▀█░▌ ▀▀▀▀▀▀▀▀▀█░▌
-              ▐░▌          ▐░▌          ▐░▌
-     ▄▄▄▄▄▄▄▄▄█░▌ ▄▄▄▄▄▄▄▄▄█░▌ ▄▄▄▄▄▄▄▄▄█░▌
-    ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌
-     ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀
-        NAZMULO :: GITHUB TERMINAL v2.7
-```
+<p>
 
-<div align="center">
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=for-the-badge&labelColor=050711"/>{=html}
+<img src="https://img.shields.io/badge/MODE-BUILDING-FF3DF2?style=for-the-badge&labelColor=050711"/>{=html}
+<img src="https://img.shields.io/badge/FOCUS-WEB%20×%20AI-8A5CFF?style=for-the-badge&labelColor=050711"/>{=html}
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2000&pause=900&color=00FFF9&center=true&vCenter=true&width=750&lines=root%40nazmulo%3A~%24+whoami;%3E+Frontend+Developer+based+in+Bangladesh;root%40nazmulo%3A~%24+status+--current;%3E+Leveling+up+to+Full-Stack+%2B+Python%2FAI;root%40nazmulo%3A~%24+access+--collab;%3E+Access+granted.+Let%27s+build+something." alt="Typing SVG" />
+</p>
 
-<br/>
+<p>
 
-<img src="https://img.shields.io/badge/⬡_NODE-ONLINE-0d0221?style=for-the-badge&labelColor=0d0221&color=ff00c8"/>
-<img src="https://img.shields.io/badge/⬡_HANDLE-@nazmulo-0d0221?style=for-the-badge&labelColor=0d0221&color=00fff9"/>
-<img src="https://img.shields.io/badge/⬡_CLASS-Frontend_Dev-0d0221?style=for-the-badge&labelColor=0d0221&color=7000ff"/>
-<img src="https://img.shields.io/badge/⬡_COLLAB-Open-0d0221?style=for-the-badge&labelColor=0d0221&color=39ff14"/>
+<a href="https://github.com/nazmul0">{=html}GitHub</a>{=html}  • 
+<a href="https://www.linkedin.com/">{=html}LinkedIn</a>{=html}  • 
+<a href="mailto:your-email@example.com">{=html}Email</a>{=html}
+
+</p>
 
-</div>
+:::
 
-<br/>
+00 // BOOT SEQUENCE
 
-<table width="100%">
-<tr><td>
-
-```yaml
-> DECRYPTING FILE: about.dat
-──────────────────────────────────────────
-role       : Frontend Developer
-mission    : Evolve into a Full-Stack + Python (AI) Developer
-current_op : Building, breaking, and rebuilding things on the web
-signal     : Open to collaboration — ping me anytime
-──────────────────────────────────────────
-```
-
-</td></tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-## 「 LOADOUT 」
-
-<img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,git,github,vscode,figma&theme=dark&perline=10" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/JavaScript-0d0221?style=for-the-badge&logo=javascript&logoColor=f7df1e"/>
-<img src="https://img.shields.io/badge/HTML5-0d0221?style=for-the-badge&logo=html5&logoColor=ff00c8"/>
-<img src="https://img.shields.io/badge/CSS3-0d0221?style=for-the-badge&logo=css3&logoColor=00fff9"/>
-<img src="https://img.shields.io/badge/Python-0d0221?style=for-the-badge&logo=python&logoColor=7000ff"/>
-<img src="https://img.shields.io/badge/In_Training-Full--Stack_%2B_AI-0d0221?style=for-the-badge&labelColor=0d0221&color=39ff14"/>
-
-</div>
-
-<br/>
-
-## 「 NEURAL FEED :: LIVE STATS 」
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nazmulo&show_icons=true&count_private=true&hide_title=true&hide_border=true&bg_color=0d0221&title_color=ff00c8&icon_color=00fff9&text_color=e0d9ff&ring_color=ff00c8" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmulo&layout=compact&hide_border=true&bg_color=0d0221&title_color=ff00c8&text_color=e0d9ff&langs_count=8" width="30%"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nazmulo&hide_border=true&background=0d0221&stroke=ff00c8&ring=00fff9&fire=39ff14&currStreakLabel=00fff9&sideLabels=e0d9ff&dates=8b7fb0&currStreakNum=e0d9ff&sideNums=e0d9ff" width="70%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nazmulo&bg_color=0d0221&color=00fff9&line=ff00c8&point=e0d9ff&area=true&area_color=7000ff&hide_border=true" width="95%"/>
-
-</div>
-
-<br/>
-
-## 「 CONTRIBUTION GRID :: SNAKE 」
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/nazmulo/nazmulo/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-
-<sub>⚠ requires one-time setup — see <b>Activation Log</b> below</sub>
-
-</div>
-
-<br/>
-
-## 「 TROPHY VAULT 」
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nazmulo&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" width="95%"/>
-
-</div>
-
-<br/>
-
-## 「 ARCHIVE :: PINNED REPOS 」
-
-```yaml
-> SCANNING REPOSITORY:: ./projects --pinned
-found 2 signals
-```
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**◈ awesome-project**
-```ini
-status  = active
-type    = open-source
-updated = just now
-stars   = 0
-```
-A standout open-source project.
-
-</td>
-<td width="50%" valign="top">
-
-**◈ toolkit**
-```ini
-status  = stable
-type    = library
-updated = n/a
-stars   = 0
-```
-Reusable building blocks and utilities.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 「 UPLINK :: CONTACT 」
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GITHUB-0d0221?style=for-the-badge&logo=github&logoColor=ff00c8)](https://github.com/nazmulo)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d0221?style=for-the-badge&logo=linkedin&logoColor=00fff9)](#)
-[![X](https://img.shields.io/badge/X__TWITTER-0d0221?style=for-the-badge&logo=x&logoColor=7000ff)](#)
-[![Email](https://img.shields.io/badge/EMAIL-0d0221?style=for-the-badge&logo=gmail&logoColor=39ff14)](#)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=nazmulo&style=for-the-badge&color=ff00c8&label=TRANSMISSIONS+RECEIVED&labelColor=0d0221"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,15:7000ff,50:00fff9,85:ff00c8,100:0d0221&height=150&section=footer" width="100%"/>
-
-<sub>◤ END OF TRANSMISSION // CONNECTION STABLE // NAZMULO.SYS ◢</sub>
-
-</div>
-
----
-
-<details>
-<summary><b>⚙ Activation Log (one-time setup for the parts that need it)</b></summary>
-
-<br/>
-
-**1. Repo name matters.** All of this only renders on your profile if it lives in a repo named exactly `nazmulo/nazmulo`, in a file called `README.md`.
-
-**2. The stats, streak, activity graph, trophies, and view counter** are all live and need zero setup — they pull straight from your public GitHub username.
-
-**3. The contribution snake animation** needs one GitHub Action (free, takes ~2 minutes):
-- Go to your `nazmulo/nazmulo` repo → **Actions** → **New workflow** → **set up a workflow yourself**
-- Paste this in `.github/workflows/snake.yml`:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches: [ main ]
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: nazmulo
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-- Commit → run it once manually via **Run workflow** → the snake SVG will appear at the URL already used above.
-
-**4. Want the ASCII banner replaced with your actual profile photo?** Just add:
-```md
-<img src="https://github.com/nazmulo.png" width="120" style="border-radius:50%"/>
-```
-right under the header banner.
-
-</details>
+┌──────────────────────────────────────────────────────────────────────┐
+│  NAZMUL.OS :: DEVELOPER PROFILE                                    │
+├──────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  ROLE       Frontend Developer → Full-Stack Developer                │
+│  SECONDARY  Python Developer → AI / Automation                      │
+│  CORE       JavaScript · React · Node.js · MongoDB                   │
+│  CURRENT    Building real products, not tutorial clones              │
+│                                                                      │
+│  MISSION    Learn fast. Build boldly. Ship continuously.             │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+
+I turn ideas into interfaces, interfaces into systems, and systems
+into products.
+
+01 // NEURAL DASHBOARD
+
+::: {align="center"}
+<img src="https://github-readme-stats.vercel.app/api?username=nazmul0&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=070A12&title_color=00F0FF&text_color=D9F7FF&icon_color=FF3DF2&ring_color=8A5CFF" width="49%"/>{=html}
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul0&layout=compact&hide_border=true&bg_color=070A12&title_color=FF3DF2&text_color=D9F7FF" width="41%"/>{=html}
+
+<br/>{=html}
+
+<img src="https://streak-stats.demolab.com?user=nazmul0&hide_border=true&background=070A12&ring=00F0FF&fire=FF3DF2&currStreakLabel=00F0FF&sideLabels=D9F7FF&dates=718096&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%"/>{=html}
+:::
+
+02 // TECH DNA
+
+::: {align="center"}
+
+ `INTERFACE`        `ENGINE`           `DATA`        `INTELLIGENCE`
+
+HTML · CSS · JS   Node · Express       MongoDB ·        Python · AI
+Firebase
+
+React · Tailwind  REST APIs · Auth    Git · GitHub    Automation · APIs
+
+<br/>{=html}
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,firebase,python,git,github,vscode,vercel&perline=7" />{=html}
+:::
+
+03 // ACTIVE BUILD QUEUE
+
+╭──────────────────────────────────────────────────────────────────────╮
+│                                                                      │
+│  ◈ PROJECT_01  // STUDYNOOK                                        │
+│  ────────────────────────────────────────────────────────────────   │
+│  Library Study Room Booking Platform                                │
+│                                                                      │
+│  React + Node.js + Express + MongoDB + Firebase                     │
+│  Authentication / Search / Booking / Conflict Detection / Dashboard │
+│                                                                      │
+│  STATE :: ███████████████████░░  SHIP MODE                          │
+│                                                                      │
+├──────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  ◈ PROJECT_02  // AI WEB LAB                                      │
+│  ────────────────────────────────────────────────────────────────   │
+│  AI-powered features for modern web applications                   │
+│                                                                      │
+│  JavaScript + Python + APIs + AI                                   │
+│                                                                      │
+│  STATE :: ███████████████░░░░░  RESEARCH MODE                      │
+│                                                                      │
+├──────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  ◈ PROJECT_03  // PORTFOLIO NODE                                  │
+│  ────────────────────────────────────────────────────────────────   │
+│  Personal developer interface and project showcase                  │
+│                                                                      │
+│  HTML + CSS + JavaScript                                            │
+│                                                                      │
+│  STATE :: ████████████████████  ONLINE                             │
+│                                                                      │
+╰──────────────────────────────────────────────────────────────────────╯
+
+04 // CONTRIBUTION MATRIX
+
+::: {align="center"}
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nazmul0&bg_color=070A12&color=00F0FF&line=FF3DF2&point=FFFFFF&area=true&area_color=16002F&hide_border=true" width="98%"/>{=html}
+:::
+
+05 // CURRENT DIRECTIVE
+
++ MASTER    React & modern frontend architecture
++ BUILD     Production-ready MERN applications
++ ENGINEER  Secure APIs and authentication
++ LEARN     Python for AI & automation
++ EXPLORE   AI integration inside real products
++ SHIP      Recruiter-ready projects
++ IMPROVE   One system at a time
+
+06 // DEVELOPMENT PHILOSOPHY
+
+::: {align="center"}
+
+       IDEA
+        │
+        ▼
+     DESIGN
+        │
+        ▼
+      CODE
+        │
+        ▼
+      DEBUG
+        │
+        ▼
+      IMPROVE
+        │
+        ▼
+       SHIP
+        │
+        └──────────────► REPEAT
+
+BUILD > WATCH    SHIP > PERFECT    LEARN > GUESS
+:::
+
+07 // SYSTEM LOG
+
+[10:01:07]  booting developer environment...
+[10:01:08]  frontend_module ............... ONLINE
+[10:01:09]  backend_module ................ ONLINE
+[10:01:10]  database_module .............. ONLINE
+[10:01:11]  python_module ................ LOADING
+[10:01:12]  ai_module .................... EXPERIMENTAL
+[10:01:13]  creativity_engine ............ UNLIMITED
+[10:01:14]  shipping_protocol ............ ACTIVE
+[10:01:15]  mission ...................... BUILD THE FUTURE
+
+08 // ABOUT THE OPERATOR
+
+I'm a Frontend Developer focused on creating modern, responsive and
+useful web experiences.
+
+My direction is Full-Stack Development + Python + AI. I enjoy
+learning through real projects, solving problems, experimenting with new
+technologies and turning concepts into working products.
+
+CURRENT ARC:
+Frontend ───────────────► Full-Stack
+JavaScript ─────────────► Python
+Web Development ────────► AI Engineering
+Projects ───────────────► Products
+
+09 // CONNECT TO THE NODE
+
+::: {align="center"}
+<a href="https://github.com/nazmul0">{=html}
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE-00F0FF?style=for-the-badge&logo=github&logoColor=050711&labelColor=FF3DF2"/>{=html}
+</a>{=html} <a href="https://www.linkedin.com/">{=html}
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-FF3DF2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=050711"/>{=html}
+</a>{=html} <a href="mailto:your-email@example.com">{=html}
+<img src="https://img.shields.io/badge/EMAIL-PING-8A5CFF?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=050711"/>{=html}
+</a>{=html}
+
+<br/>{=html}<br/>{=html}
+
+[ CONNECTION ESTABLISHED ]
+:::
+
+::: {align="center"}
+
+THE FUTURE IS BUILT, NOT PREDICTED.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:02030A,30:16002F,65:3A0057,100:00F0FF&section=footer"/>{=html}
+:::
+
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║ PERSONALIZE                                                         ║
+║                                                                      ║
+║ 1. Replace the LinkedIn URL.                                        ║
+║ 2. Replace the email address.                                       ║
+║ 3. Keep "nazmul0" if that is your GitHub username.                  ║
+║ 4. Add your live project links to the ACTIVE BUILD QUEUE.            ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
