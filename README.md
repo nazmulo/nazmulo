@@ -132,7 +132,6 @@ Reusable building blocks and utilities.
 ---
 
 <details>
-<summary><b>⚙ Activation Log (one-time setup for the parts that need it)</b></summary>
 
 <br/>
 
