@@ -182,10 +182,9 @@ Status: ACTIVE
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GITHUB-0d0221?style=for-the-badge&logo=github&logoColor=ff00c8)](https://github.com/nazmulo)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d0221?style=for-the-badge&logo=linkedin&logoColor=00fff9)](#)
-[![X](https://img.shields.io/badge/X__TWITTER-0d0221?style=for-the-badge&logo=x&logoColor=7000ff)](#)
-[![Email](https://img.shields.io/badge/EMAIL-0d0221?style=for-the-badge&logo=gmail&logoColor=39ff14)](#)
-
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d0221?style=for-the-badge&logo=linkedin&logoColor=00fff9)](https://www.linkedin.com/in/nazmulhasan01)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0d0221?style=for-the-badge&logo=netlify&logoColor=7000ff)](https://nazmul-web.netlify.app/)
+[![Email](https://img.shields.io/badge/EMAIL-0d0221?style=for-the-badge&logo=gmail&logoColor=39ff14)](mailto:itsnaazmul@gmail.com)
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=nazmulo&style=for-the-badge&color=ff00c8&label=TRANSMISSIONS+RECEIVED&labelColor=0d0221"/>
