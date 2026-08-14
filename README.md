@@ -1,5 +1,5 @@
-::: {align="center"}
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:05000F,35:16002B,70:30004F,100:05000F&text=NAZMUL%20HASAN&fontSize=52&fontColor=00F0FF&fontAlignY=38&desc=CYBER%20DEVELOPER%20%2F%2F%20SYSTEM%20ONLINE&descAlignY=62&descSize=16&animation=twinkling"/>{=html}
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:05000F,35:16002B,70:30004F,100:05000F&text=NAZMUL%20HASAN&fontSize=52&fontColor=00F0FF&fontAlignY=38&desc=CYBER%20DEVELOPER%20%2F%2F%20SYSTEM%20ONLINE&descAlignY=62&descSize=16&animation=twinkling"/>
 
 ╔════════════════════════════════════════════════════════════════════╗
 ║  N A Z M U L . 0  //  DEVELOPER NODE                             ║
