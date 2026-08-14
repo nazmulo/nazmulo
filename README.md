@@ -39,7 +39,7 @@ PYTHON_CORE
 
 DEVOPS_INTERFACE
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" />{=html}
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" />
 
 </td>
 
