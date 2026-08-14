@@ -184,7 +184,9 @@ Status: ACTIVE
 [![GitHub](https://img.shields.io/badge/GITHUB-0d0221?style=for-the-badge&logo=github&logoColor=ff00c8)](https://github.com/nazmulo)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d0221?style=for-the-badge&logo=linkedin&logoColor=00fff9)](https://www.linkedin.com/in/nazmulhasan01)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0d0221?style=for-the-badge&logo=netlify&logoColor=7000ff)](https://nazmul-web.netlify.app/)
+<br/>
 
+EMAIL: itsnaazmul@gmail.com
 
 <br/>
 
