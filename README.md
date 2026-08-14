@@ -46,43 +46,4 @@ DEVOPS_INTERFACE
 </tr>
 
 </table>
-
-04 // ACTIVE OPERATIONS
-
-╭────────────────────────────────────────────────────────────────────╮
-│                                                                    │
-│  [01] STUDYNOOK                                                    │
-│  ──────────────────────────────────────────────────────────────    │
-│  Library Study Room Booking System                                 │
-│                                                                    │
-│  React + Node + Express + MongoDB + Firebase                       │
-│  AUTH / SEARCH / BOOKING / CONFLICT DETECTION / DASHBOARD          │
-│                                                                    │
-│  STATUS :: ███████████████░░░░  BUILDING                           │
-│                                                                    │
-├────────────────────────────────────────────────────────────────────┤
-│                                                                    │
-│  [02] AI WEB LAB                                                   │
-│  ──────────────────────────────────────────────────────────────    │
-│  Experiments with AI-powered web features and automation.          │
-│                                                                    │
-│  JavaScript + Python + APIs + AI                                   │
-│                                                                    │
-│  STATUS :: ████████████░░░░░░░░  EXPERIMENTING                   │
-│                                                                    │
-├────────────────────────────────────────────────────────────────────┤
-│                                                                    │
-│  [03] PORTFOLIO NODE                                               │
-│  ──────────────────────────────────────────────────────────────    │
-│  Personal developer interface / project showcase.                  │
-│                                                                    │
-│  HTML + CSS + JavaScript                                           │
-│                                                                    │
-│  STATUS :: ███████████████████░  ONLINE                            │
-│                                                                    │
-╰────────────────────────────────────────────────────────────────────╯
-
-
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:05000F,45:30004F,100:FF00E5&section=footer"/>
