@@ -1,40 +1,107 @@
-<div align="center">
-  <img 
-    src="cover.png" 
-    alt="Nazmul Hasan" 
-    style="width: 100%; height: 300px;">
-</div>
-   
-<!--- title --->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm NAZMUL HASAN</h1></summary>
-    <!--- typo --->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Passionate+Full+Stack+Web+Developer;JavaScript+Enthusiast" alt="Typing SVG" /></a>
-  </ul>
-</div>
+# nazmulo
 
-<br/>
+> Memorable developer positioning.
 
-<!--- about --->
-- 👋 Hi, I’m **[@nazmulo](https://github.com/nazmulo/nazmulo)**
-- 🖥️ I’m currently working on **React.js, Next.js** for frontend development.
-- 🗄️ Using **Node.js, Express.js, MongoDB** for the backend.
-- 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB)**.
-- 🌐 Explore My Portfolio **[NAZMUL HASAN](https://nazmul-web.netlify.app/)** and My **[Resume](https://drive.google.com/uc?export=download&id=15hKPeITR4Sa_OncoDhpUNgLJhBO)**
-- 📝 I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/itsnaazmul)**
-- 📫 Feel free to reach me out **[Email](itsnaazmul@gmail.com)**
-  
-<br/>
+**Theme:** Neon · **Style:** Creative · **Agent:** Full-Stack Engineer
 
-<!--- socials --->
-## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp"
- width="35"><b> FOLLOW ME ON SOCIALS:</b>
+## Header
+> Editing this section in the inspector.
+Hi, I'm **nazmulo**. This README is tuned for **personal brand** with a Neon visual system.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=nazmulo&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=nazmulo&theme=neon" alt="nazmulo hero section" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=nazmulo&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=nazmulo&theme=neon" alt="nazmulo about section" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=nazmulo&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=nazmulo&theme=neon" alt="nazmulo stats section" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=nazmulo&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=nazmulo&theme=neon" alt="nazmulo stack section" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=nazmulo&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=nazmulo&theme=neon" alt="nazmulo projects section" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=nazmulo&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=nazmulo&theme=neon" alt="nazmulo social section" />
+  </picture>
+</p>
+## About Me
+Shapes the short profile story and positioning.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=nazmulo&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=nazmulo&theme=neon" alt="nazmulo about section" />
+  </picture>
+</p>
+## Skills
+Selected stack and skill badges will be generated from the GitHub profile and README strategy.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=nazmulo&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=nazmulo&theme=neon" alt="nazmulo stack section" />
+  </picture>
+</p>
+## Projects
+Highlights repositories as proof of work.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=nazmulo&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=nazmulo&theme=neon" alt="nazmulo projects section" />
+  </picture>
+</p>
+## Heatmap
+Animated year-long contribution calendar.
+## GitHub Stats
+GitSkins stat widgets will use the **Neon** theme.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=nazmulo&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=nazmulo&theme=neon" alt="nazmulo stats section" />
+  </picture>
+</p>
+## Connect
+Contact and social links will appear here.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=nazmulo&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=nazmulo&theme=neon" alt="nazmulo social section" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=nazmulo&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=nazmulo&theme=neon" alt="nazmulo hero section" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=nazmulo&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=nazmulo&theme=neon" alt="nazmulo stats section" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=nazmulo&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=nazmulo&theme=neon" alt="nazmulo projects section" />
+  </picture>
+</p>
 
-
-
-<br/>
-
-<!--- technology --->
-##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
-
+<!-- Sections: Header, About Me, Skills, Projects, Heatmap, GitHub Stats, Connect -->
