@@ -158,11 +158,13 @@ Status: ACTIVE
 ## NEURAL FEED :: LIVE STATS
 
 
-<br/><br/>
+<br/>
+<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazmulo&hide_border=true&background=0d0221&stroke=ff00c8&ring=00fff9&fire=39ff14&currStreakLabel=00fff9&sideLabels=e0d9ff&dates=8b7fb0&currStreakNum=e0d9ff&sideNums=e0d9ff" width="70%"/>
 
-<br/><br/>
+<br/>
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nazmulo&bg_color=0d0221&color=00fff9&line=ff00c8&point=e0d9ff&area=true&area_color=7000ff&hide_border=true" width="95%"/>
 
