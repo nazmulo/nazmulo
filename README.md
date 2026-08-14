@@ -190,6 +190,9 @@ EMAIL: itsnaazmul@gmail.com
 
 <br/>
 
+PHONE: +8801620263494
+<BR/>
+
 <img src="https://komarev.com/ghpvc/?username=nazmulo&style=for-the-badge&color=ff00c8&label=TRANSMISSIONS+RECEIVED&labelColor=0d0221"/>
 
 <br/><br/>
