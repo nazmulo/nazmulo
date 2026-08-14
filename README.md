@@ -83,7 +83,7 @@ DEVOPS_INTERFACE
 <br/>
 
 <div align="center">
-  ##  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXIycHlqb3NtYnVodmtxbzY4cWRsZWhqMjI3OThpcWdka2t3MTViZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qTL6FKFRFs9rvNq7qn/giphy.gif" width ="40"><b>Featured Projects</b>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXIycHlqb3NtYnVodmtxbzY4cWRsZWhqMjI3OThpcWdka2t3MTViZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qTL6FKFRFs9rvNq7qn/giphy.gif" width ="40"><h1>Featured Projects</h1>
 </div>
 
 
