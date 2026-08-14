@@ -6,66 +6,6 @@
 
 </p>
 
-<p align="center">
-
-<a href="https://github.com/nazmul0">{=html}
-<img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=00C6FF" />{=html}
-</a>{=html} <a href="https://www.linkedin.com/">{=html}
-<img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=00C6FF" />{=html}
-</a>{=html} <a href="mailto:your-email@example.com">{=html}
-<img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=00C6FF" />{=html}
-</a>{=html}
-
-</p>
-
-> whoami
-
-Frontend Developer
-Future Full-Stack Developer
-Python Developer (AI & Automation)
-Building modern, useful and scalable web experiences.
-
-⚡ Profile Signal
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nazmul0&show_icons=true&hide_border=true&bg_color=0B1220&title_color=00C6FF&icon_color=7F00FF&text_color=E6F7FF&ring_color=00C6FF" height="165" />{=html}
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul0&layout=compact&hide_border=true&bg_color=0B1220&title_color=00C6FF&text_color=E6F7FF" height="165" />{=html}
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=nazmul0&theme=transparent&hide_border=true&background=0B1220&ring=00C6FF&fire=7F00FF&currStreakLabel=00C6FF&sideLabels=E6F7FF&dates=8AA4B8" />{=html}
-
-</p>
-
-🧬 Tech Matrix
-
-Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />{=html}
-
-</p>
-
-Backend & Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />{=html}
-
-</p>
-
-Programming & Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,vercel,netlify" />{=html}
-
-</p>
-
 🚀 Featured Projects
 
 <table>
