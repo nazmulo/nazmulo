@@ -151,11 +151,11 @@ Status: ACTIVE
 
 </table>
 
-## NEURAL FEED :: LIVE STATS
+
 
 <div align="center">
 
-
+## NEURAL FEED :: LIVE STATS
 
 
 <br/>
