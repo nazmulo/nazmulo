@@ -58,7 +58,7 @@ signal     : Open to collaboration — ping me anytime
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nazmulo&show_icons=true&count_private=true&hide_title=true&hide_border=true&bg_color=0d0221&title_color=ff00c8&icon_color=00fff9&text_color=e0d9ff&ring_color=ff00c8" width="49%"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmulo&layout=compact&hide_border=true&bg_color=0d0221&title_color=ff00c8&text_color=e0d9ff&langs_count=8" width="30%"/>
 
 <br/>
