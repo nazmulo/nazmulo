@@ -51,22 +51,22 @@ DEVOPS_INTERFACE
 
 ╭────────────────────────────────────────────────────────────────────╮
 │                                                                    │
-│  [01] STUDYNOOK                                                   │
+│  [01] STUDYNOOK                                                    │
 │  ──────────────────────────────────────────────────────────────    │
-│  Library Study Room Booking System                                │
+│  Library Study Room Booking System                                 │
 │                                                                    │
-│  React + Node + Express + MongoDB + Firebase                     │
-│  AUTH / SEARCH / BOOKING / CONFLICT DETECTION / DASHBOARD        │
+│  React + Node + Express + MongoDB + Firebase                       │
+│  AUTH / SEARCH / BOOKING / CONFLICT DETECTION / DASHBOARD          │
 │                                                                    │
-│  STATUS :: ███████████████░░░░  BUILDING                         │
+│  STATUS :: ███████████████░░░░  BUILDING                           │
 │                                                                    │
 ├────────────────────────────────────────────────────────────────────┤
 │                                                                    │
 │  [02] AI WEB LAB                                                   │
 │  ──────────────────────────────────────────────────────────────    │
-│  Experiments with AI-powered web features and automation.         │
+│  Experiments with AI-powered web features and automation.          │
 │                                                                    │
-│  JavaScript + Python + APIs + AI                                  │
+│  JavaScript + Python + APIs + AI                                   │
 │                                                                    │
 │  STATUS :: ████████████░░░░░░░░  EXPERIMENTING                   │
 │                                                                    │
@@ -74,11 +74,11 @@ DEVOPS_INTERFACE
 │                                                                    │
 │  [03] PORTFOLIO NODE                                               │
 │  ──────────────────────────────────────────────────────────────    │
-│  Personal developer interface / project showcase.                 │
+│  Personal developer interface / project showcase.                  │
 │                                                                    │
-│  HTML + CSS + JavaScript                                          │
+│  HTML + CSS + JavaScript                                           │
 │                                                                    │
-│  STATUS :: ███████████████████░  ONLINE                           │
+│  STATUS :: ███████████████████░  ONLINE                            │
 │                                                                    │
 ╰────────────────────────────────────────────────────────────────────╯
 
@@ -90,65 +90,6 @@ DEVOPS_INTERFACE
 
 </p>
 
-06 // CURRENT DIRECTIVE
 
-+ [01] Deepen React architecture
-+ [02] Build production-ready MERN applications
-+ [03] Master backend APIs and authentication
-+ [04] Learn Python for AI & automation
-+ [05] Integrate useful AI features into web apps
-+ [06] Ship projects instead of only collecting tutorials
 
-07 // SYSTEM LOG
-
-10:01:07  :: initializing...
-10:01:08  :: loading developer_profile
-10:01:09  :: frontend_module       [ONLINE]
-10:01:09  :: backend_module        [ONLINE]
-10:01:10  :: python_module         [LOADING]
-10:01:10  :: ai_module             [EXPERIMENTAL]
-10:01:11  :: creativity_engine     [UNLIMITED]
-10:01:11  :: mission_status        [BUILD / LEARN / SHIP]
-
-08 // ABOUT THE OPERATOR
-
-Frontend Developer focused on building modern interfaces and
-real-world applications.
-
-My long-term direction is Full-Stack Development + Python + AI.
-
-I learn by building, debugging, breaking things, and rebuilding them
-better.
-
-09 // NETWORK
-
-::: {align="center"}
-<a href="https://github.com/nazmul0">{=html}
-<img src="https://img.shields.io/badge/GITHUB-00F0FF?style=for-the-badge&logo=github&logoColor=05000F&labelColor=FF00E5"/>{=html}
-</a>{=html}
-
-<a href="https://www.linkedin.com/">{=html}
-<img src="https://img.shields.io/badge/LINKEDIN-FF00E5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=05000F"/>{=html}
-</a>{=html}
-:::
-
-::: {align="center"}
-
-╔══════════════════════════════════════════════════════╗
-║  SYSTEM MESSAGE                                     ║
-║                                                      ║
-║  DON'T WAIT FOR THE FUTURE.                         ║
-║  BUILD SOMETHING THAT BELONGS IN IT.                ║
-║                                                      ║
-║  > connection terminated...                         ║
-╚══════════════════════════════════════════════════════╝
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:05000F,45:30004F,100:FF00E5&section=footer"/>{=html}
-:::
-
-<!--
-CYBERPUNK PROFILE CONFIG
-1. Replace the LinkedIn URL.
-2. Replace the email/social links if you add them.
-3. Change "nazmul0" everywhere if your GitHub username is different.
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:05000F,45:30004F,100:FF00E5&section=footer"/>
