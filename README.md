@@ -82,13 +82,6 @@ DEVOPS_INTERFACE
 │                                                                    │
 ╰────────────────────────────────────────────────────────────────────╯
 
-05 // CONTRIBUTION GRID
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nazmul0&bg_color=05000F&color=00F0FF&line=FF00E5&point=FFFFFF&area=true&area_color=16002B&hide_border=true" width="98%"/>{=html}
-
-</p>
 
 
 
