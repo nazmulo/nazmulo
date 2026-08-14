@@ -1,7 +1,3 @@
-
-
-
-Hi, I'm **nazmulo**. This README is tuned for **personal brand** with a Neon visual system.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=nazmulo&theme=neon&mode=light" />
