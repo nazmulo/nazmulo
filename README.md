@@ -200,6 +200,25 @@ PHONE: +8801620263494
 
 <details>
 
-<P>hi here use details</P>
+<P>I’m a Frontend Developer with experience building modern web applications using_
+
+🌀 React
+🌀Next.js
+🌀Tailwind CSS and
+🌀JavaScript. 
+
+I focus on clean UI, responsive design and good user experience. I’m currently growing as a Full-Stack Developer, working with Node.js, Express.js, MongoDB and Firebase to build complete, real-world applications from frontend to backend.
+
+ I’m a fast learner and highly motivated to improve my skills every day. My long-term goal is to become a Full-Stack Developer and Python AI/ML Engineer, building smart and scalable web sites.
+
+ I’m open to Frontend Developer, Junior Full-Stack Developer, and Entry-Level roles.
+
+ I enjoy learning, solving problems, and working on meaningful products.
+
+📬 Let's connect:
+📧 itsnaazmul@gmail.com
+🌐 github.com/nazmulo
+🌐 https://nazmul-WEB.netlify.app
+📱+8801620263494</P>
 
 </details>
