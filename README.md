@@ -218,11 +218,11 @@ I focus on clean UI, responsive design and good user experience. I’m currently
 📬 Let's connect:
 
 📧 itsnaazmul@gmail.com
-
+<br/>
 🌐 github.com/nazmulo
-
+<br/>
 🌐 https://nazmul-web.netlify.app/
-
+<br/>
 📱+8801620263494</P>
-
+<br/>
 </details>
