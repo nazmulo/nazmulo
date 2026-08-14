@@ -1,84 +1,50 @@
-👨‍💻 Nazmul Hasan
+<div align="center">
+  <img 
+    src="cover.png" 
+    alt="Nazmul Hasan" 
+    style="width: 100%; height: 300px;">
+</div>
+   
+<!--- title --->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm NAZMUL HASAN</h1></summary>
+    <!--- typo --->
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Passionate+Full+Stack+Web+Developer;JavaScript+Enthusiast" alt="Typing SVG" /></a>
+  </ul>
+</div>
 
-<p align="center">
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:7F00FF&height=180&section=header&text=NAZMUL%20HASAN&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+<!--- about --->
+- 👋 Hi, I’m **[@nazmulo](https://github.com/nazmulo/nazmulo)**
+- 🖥️ I’m currently working on **React.js, Next.js** for frontend development.
+- 🗄️ Using **Node.js, Express.js, MongoDB** for the backend.
+- 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB)**.
+- 🌐 Explore My Portfolio **[NAZMUL HASAN](https://nazmul-web.netlify.app/)** and My **[Resume](https://drive.google.com/uc?export=download&id=15hKPeITR4Sa_OncoDhpUNgLJhBO)**
+- 📝 I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/itsnaazmul)**
+- 📫 Feel free to reach me out **[Email](itsnaazmul@gmail.com)**
+  
+<br/>
 
-</p>
+<!--- socials --->
+## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp"
+ width="35"><b> FOLLOW ME ON SOCIALS:</b>
 
-🚀 Featured Projects
+<div>
+  <p align="left">
+    <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="nazmulo" height="30" width="40" /></a>
+    <a href="#" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="nazmulo" height="30" width="40" /></a>
+    </p>
+</div>
 
-<table>
+<br/>
 
-<tr>
+<!--- technology --->
+##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
 
-<td width="50%">
+### Languages:
+[![Languages](https://skillicons.dev/icons?i=html,css,javascript)](https://github.com/nazmulo)
 
-📚 StudyNook
-
-Library Study Room Booking
-
-A full-stack platform for discovering, listing and booking study rooms
-with authentication and booking-conflict protection.
-
-Stack: React · Node.js · Express · MongoDB · Firebase
-
-</td>
-
-<td width="50%">
-
-🌐 Portfolio
-
-Personal Developer Portfolio
-
-A clean, responsive portfolio showcasing projects, skills, experience
-and developer identity.
-
-Stack: HTML · CSS · JavaScript
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-🤖 AI Web Features
-
-AI-powered Experiments
-
-Exploring practical AI integrations for modern websites, automation and
-developer workflows.
-
-Focus: AI · APIs · Python · JavaScript
-
-</td>
-
-<td width="50%">
-
-🧪 More Projects
-
-Building in Public
-
-Constantly experimenting with frontend systems, full-stack applications,
-APIs and useful developer tools.
-
-Status: ACTIVE
-
-</td>
-
-</tr>
-
-</table>
-
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C6FF&height=120&section=footer" />
-
-</p>
-
-<!--
-  FUTURE MODE:
-  Replace the placeholder LinkedIn and email links.
+### CSS Frameworks & Libraries:
+[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tail
