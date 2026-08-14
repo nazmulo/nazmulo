@@ -88,67 +88,62 @@ DEVOPS_INTERFACE
 
 
 <table>
-
 <tr>
-
 <td width="50%">
 
-📚 StudyNook
+**📚 StudyNook**
+**Library Study Room Booking**
 
-Library Study Room Booking
+A full-stack platform for discovering, listing and booking study rooms with authentication and booking-conflict protection.
 
-A full-stack platform for discovering, listing and booking study rooms
-with authentication and booking-conflict protection.
+**Stack:** React · Node.js · Express · MongoDB · Firebase
 
-Stack: React · Node.js · Express · MongoDB · Firebase
+<a href="https://github.com/nazmulo/studynook"><img src="https://img.shields.io/badge/REPO-0d0221?style=for-the-badge&logo=github&logoColor=ff00c8"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LIVE-0d0221?style=for-the-badge&logo=netlify&logoColor=39ff14"/></a>
 
 </td>
-
 <td width="50%">
 
-🌐 Portfolio
+**🌐 Portfolio**
+**Personal Developer Portfolio**
 
-Personal Developer Portfolio
+A clean, responsive portfolio showcasing projects, skills, experience and developer identity.
 
-A clean, responsive portfolio showcasing projects, skills, experience
-and developer identity.
+**Stack:** HTML · CSS · JavaScript
 
-Stack: HTML · CSS · JavaScript
+<a href="https://github.com/nazmulo/portfolio"><img src="https://img.shields.io/badge/REPO-0d0221?style=for-the-badge&logo=github&logoColor=ff00c8"/></a>
+<a href="https://nazmul-web.netlify.app/"><img src="https://img.shields.io/badge/LIVE-0d0221?style=for-the-badge&logo=netlify&logoColor=39ff14"/></a>
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%">
 
-🤖 AI Web Features
+**🤖 AI Web Features**
+**AI-powered Experiments**
 
-AI-powered Experiments
+Exploring practical AI integrations for modern websites, automation and developer workflows.
 
-Exploring practical AI integrations for modern websites, automation and
-developer workflows.
+**Focus:** AI · APIs · Python · JavaScript
 
-Focus: AI · APIs · Python · JavaScript
+<a href="https://github.com/nazmulo"><img src="https://img.shields.io/badge/REPO-0d0221?style=for-the-badge&logo=github&logoColor=ff00c8"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LIVE-0d0221?style=for-the-badge&logo=vercel&logoColor=00fff9"/></a>
 
 </td>
-
 <td width="50%">
 
-🧪 More Projects
+**🧪 More Projects**
+**Building in Public**
 
-Building in Public
+Constantly experimenting with frontend systems, full-stack applications, APIs and useful developer tools.
 
-Constantly experimenting with frontend systems, full-stack applications,
-APIs and useful developer tools.
+**Status:** `ACTIVE`
 
-Status: ACTIVE
+<a href="https://github.com/nazmulo?tab=repositories"><img src="https://img.shields.io/badge/ALL_REPOS-0d0221?style=for-the-badge&logo=github&logoColor=ff00c8"/></a>
+<a href="https://nazmul-web.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0d0221?style=for-the-badge&logo=netlify&logoColor=7000ff"/></a>
 
 </td>
-
 </tr>
-
 </table>
 
 
