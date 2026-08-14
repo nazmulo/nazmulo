@@ -31,20 +31,10 @@
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp"
  width="35"><b> FOLLOW ME ON SOCIALS:</b>
 
-<div>
-  <p align="left">
-    <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="nazmulo" height="30" width="40" /></a>
-    <a href="#" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="nazmulo" height="30" width="40" /></a>
-    </p>
-</div>
+
 
 <br/>
 
 <!--- technology --->
 ##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
 
-### Languages:
-[![Languages](https://skillicons.dev/icons?i=html,css,javascript)](https://github.com/nazmulo)
-
-### CSS Frameworks & Libraries:
-[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tail
