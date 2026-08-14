@@ -1,7 +1,6 @@
 
 
-## Header
-> Editing this section in the inspector.
+
 Hi, I'm **nazmulo**. This README is tuned for **personal brand** with a Neon visual system.
 <p align="center">
   <picture>
