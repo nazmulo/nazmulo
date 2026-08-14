@@ -125,7 +125,7 @@ Reusable building blocks and utilities.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,15:7000ff,50:00fff9,85:ff00c8,100:0d0221&height=150&section=footer" width="100%"/>
 
-<sub>◤ END OF TRANSMISSION // CONNECTION STABLE // NAZMULO.SYS ◢</sub>
+
 
 </div>
 
