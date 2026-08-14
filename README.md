@@ -34,15 +34,51 @@ signal     : Open to collaboration — ping me anytime
 <!--- technology --->
 ##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
 
-<img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,git,github,vscode,figma&theme=dark&perline=10" />
+## 03 // TECH DNA
 
-<br/><br/>
+<table align="center">
 
-<img src="https://img.shields.io/badge/JavaScript-0d0221?style=for-the-badge&logo=javascript&logoColor=f7df1e"/>
-<img src="https://img.shields.io/badge/HTML5-0d0221?style=for-the-badge&logo=html5&logoColor=ff00c8"/>
-<img src="https://img.shields.io/badge/CSS3-0d0221?style=for-the-badge&logo=css3&logoColor=00fff9"/>
-<img src="https://img.shields.io/badge/Python-0d0221?style=for-the-badge&logo=python&logoColor=7000ff"/>
-<img src="https://img.shields.io/badge/In_Training-Full--Stack_%2B_AI-0d0221?style=for-the-badge&labelColor=0d0221&color=39ff14"/>
+<tr>
+
+<td align="center" width="50%">
+
+FRONTEND_MATRIX
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+
+</td>
+
+<td align="center" width="50%">
+
+BACKEND_MATRIX
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+UI/UX_INTERFACE
+
+<img src="https://skillicons.dev/icons?i=figma,xd" />
+
+</td>
+
+<td align="center">
+
+DEVOPS_INTERFACE
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" />
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
