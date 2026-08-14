@@ -75,10 +75,7 @@ signal     : Open to collaboration — ping me anytime
 
 ## 「 ARCHIVE :: PINNED REPOS 」
 
-```yaml
-> SCANNING REPOSITORY:: ./projects --pinned
-found 2 signals
-```
+
 
 <table width="100%">
 <tr>
