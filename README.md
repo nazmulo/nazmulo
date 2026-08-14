@@ -3,21 +3,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:05000F,35:16002B,70:30004F,100:05000F&text=NAZMUL%20HASAN&fontSize=52&fontColor=00F0FF&fontAlignY=38&animation=twinkling">
 </div>
 
-
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2000&pause=900&color=00FFF9&center=true&vCenter=true&width=750&lines=%3E+Passionate+Full+Stack+Web+Developer;%3E+Leveling+up+to+Full-stack+%2B+Python%2FAI;%3E+Access+granted.+Let%27s+build+something." alt="Typing SVG" />
-
-<br/>
-
-
 
 </div>
 
 <br/>
 
-<table width="100%">
+<table align="center" width="100%">
 <tr><td>
 
 ```yaml
