@@ -219,7 +219,7 @@ I focus on clean UI, responsive design and good user experience. I’m currently
 
 📧 itsnaazmul@gmail.com
 <br/>
-🌐 github.com/nazmulo
+🌐 [github.com/nazmulo](https://github.com/nazmulo)
 <br/>
 🌐 https://nazmul-web.netlify.app/
 <br/>
