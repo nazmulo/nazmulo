@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:7F00FF&height=180&section=header&text=NAZMUL%20HASAN&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35" />{=html}
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:7F00FF&height=180&section=header&text=NAZMUL%20HASAN&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 
 </p>
 
@@ -75,7 +75,7 @@ Status: ACTIVE
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C6FF&height=120&section=footer" />{=html}
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C6FF&height=120&section=footer" />
 
 </p>
 
