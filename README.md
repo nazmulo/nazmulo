@@ -151,7 +151,7 @@ Status: ACTIVE
 
 </table>
 
-## 「 NEURAL FEED :: LIVE STATS 」
+## NEURAL FEED :: LIVE STATS
 
 <div align="center">
 
