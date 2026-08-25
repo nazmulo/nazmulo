@@ -162,14 +162,8 @@ Constantly experimenting with frontend systems, full-stack applications, APIs an
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nazmulo&bg_color=0d0221&color=00fff9&line=ff00c8&point=e0d9ff&area=true&area_color=7000ff&hide_border=true" width="95%"/>
 
 </div>
-
 <br/>
-
-
 <br/>
-
-
-
 <div align="center">
 
 ##  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTQyaXlycTY0OGV4aGRkNHM0a2twNDVzdGU4cTBrNWE2NmVzYXh1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/65qzUZckzeWG1wugLW/giphy.gif" width ="35"><b> CONTACTS:</b>
